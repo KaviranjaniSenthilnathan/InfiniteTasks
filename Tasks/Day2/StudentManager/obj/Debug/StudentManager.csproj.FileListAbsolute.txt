@@ -1,0 +1,7 @@
+C:\DotNet Tasks\InfiniteTasks\Tasks\Day2\StudentManager\bin\Debug\StudentManager.exe.config
+C:\DotNet Tasks\InfiniteTasks\Tasks\Day2\StudentManager\bin\Debug\StudentManager.exe
+C:\DotNet Tasks\InfiniteTasks\Tasks\Day2\StudentManager\bin\Debug\StudentManager.pdb
+C:\DotNet Tasks\InfiniteTasks\Tasks\Day2\StudentManager\obj\Debug\StudentManager.csproj.AssemblyReference.cache
+C:\DotNet Tasks\InfiniteTasks\Tasks\Day2\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\DotNet Tasks\InfiniteTasks\Tasks\Day2\StudentManager\obj\Debug\StudentManager.exe
+C:\DotNet Tasks\InfiniteTasks\Tasks\Day2\StudentManager\obj\Debug\StudentManager.pdb
