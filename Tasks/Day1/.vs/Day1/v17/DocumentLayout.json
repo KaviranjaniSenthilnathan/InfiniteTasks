@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\",
+  "WorkspaceRootPath": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day1\\day1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day1\\file1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|solutionrelative:file1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day1\\day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day1\\day1\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|solutionrelative:factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day1\\day1\\fibonaccigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\fibonaccigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|solutionrelative:fibonaccigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day1\\day1\\primechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\primechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|solutionrelative:primechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day1\\day1\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|solutionrelative:temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day1\\day1\\evenoddchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\evenoddchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7648016-160C-4E24-BF80-5813669DA7AA}|Day1.csproj|solutionrelative:evenoddchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,94 +62,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PrimeChecker.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\PrimeChecker.cs",
-              "RelativeDocumentMoniker": "PrimeChecker.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\PrimeChecker.cs",
-              "RelativeToolTip": "PrimeChecker.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T07:36:22.701Z",
+              "DocumentIndex": 0,
+              "Title": "file1.md",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\file1.md",
+              "RelativeDocumentMoniker": "file1.md",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\file1.md",
+              "RelativeToolTip": "file1.md",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-02T17:13:07.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TemperatureConverter.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\TemperatureConverter.cs",
-              "RelativeDocumentMoniker": "TemperatureConverter.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\TemperatureConverter.cs",
-              "RelativeToolTip": "TemperatureConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "PrimeChecker.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\PrimeChecker.cs",
+              "RelativeDocumentMoniker": "PrimeChecker.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\PrimeChecker.cs",
+              "RelativeToolTip": "PrimeChecker.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T07:35:57.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T07:36:22.701Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EvenOddChecker.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\EvenOddChecker.cs",
-              "RelativeDocumentMoniker": "EvenOddChecker.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\EvenOddChecker.cs",
-              "RelativeToolTip": "EvenOddChecker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "TemperatureConverter.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\TemperatureConverter.cs",
+              "RelativeDocumentMoniker": "TemperatureConverter.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\TemperatureConverter.cs",
+              "RelativeToolTip": "TemperatureConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T07:35:37.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T07:35:57.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "EvenOddChecker.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\EvenOddChecker.cs",
+              "RelativeDocumentMoniker": "EvenOddChecker.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\EvenOddChecker.cs",
+              "RelativeToolTip": "EvenOddChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T07:33:57.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T07:35:37.82Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Factorial.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\Factorial.cs",
-              "RelativeDocumentMoniker": "Factorial.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\Factorial.cs",
-              "RelativeToolTip": "Factorial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T07:37:08.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T07:33:57.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Factorial.cs",
+              "RelativeDocumentMoniker": "Factorial.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Factorial.cs",
+              "RelativeToolTip": "Factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T07:37:08.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\Calculator.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Calculator.cs",
               "RelativeDocumentMoniker": "Calculator.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\Calculator.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Calculator.cs",
               "RelativeToolTip": "Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-29T07:35:13.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FibonacciGenerator.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\FibonacciGenerator.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\FibonacciGenerator.cs",
               "RelativeDocumentMoniker": "FibonacciGenerator.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\Day1\\FibonacciGenerator.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day1\\FibonacciGenerator.cs",
               "RelativeToolTip": "FibonacciGenerator.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T07:36:40.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T07:36:40.961Z"
             }
           ]
         }
