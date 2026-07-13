@@ -6,3 +6,11 @@ C:\DotNet Tasks\InfiniteTasks\Tasks\Day2\BankSystem\obj\Debug\BankSystem.csproj.
 C:\DotNet Tasks\InfiniteTasks\Tasks\Day2\BankSystem\obj\Debug\BankSystem.exe
 C:\DotNet Tasks\InfiniteTasks\Tasks\Day2\BankSystem\obj\Debug\BankSystem.pdb
 C:\DotNet Tasks\InfiniteTasks\Tasks\Day2\BankSystem\obj\Debug\BankSystem.exe.config
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week1\Day2\BankSystem\bin\Debug\BankSystem.exe.config
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week1\Day2\BankSystem\bin\Debug\BankSystem.exe
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week1\Day2\BankSystem\bin\Debug\BankSystem.pdb
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week1\Day2\BankSystem\obj\Debug\BankSystem.csproj.AssemblyReference.cache
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week1\Day2\BankSystem\obj\Debug\BankSystem.exe.config
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week1\Day2\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week1\Day2\BankSystem\obj\Debug\BankSystem.exe
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week1\Day2\BankSystem\obj\Debug\BankSystem.pdb

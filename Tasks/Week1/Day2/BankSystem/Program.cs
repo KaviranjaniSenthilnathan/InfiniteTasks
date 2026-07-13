@@ -14,12 +14,14 @@ namespace BankSystem
             balance = initialBalance;
         }
 
-        public double GetBalance()
+        public double GetBalance()   //bal = 1000
         {
             return balance;
         }
-
-        public virtual void Deposit(double amount)
+      
+        public virtual void Deposit(double amount)    //depamt=500
+            //1000=1000+500
+            //1500
         {
             if (amount > 0)
             {
@@ -28,15 +30,20 @@ namespace BankSystem
             }
         }
 
-        public virtual void Withdraw(double amount)
-        {
+        public virtual void Withdraw(double amount) //bal=1500
+        {//1 and 1499
+
+
+            //400
             if (amount > 0 && amount <= balance)
             {
                 balance -= amount;
+                //1500=1500-400
+                //1100
                 Console.WriteLine($"Withdrawn: {amount}");
             }
             else
-            {
+            {//1501
                 Console.WriteLine("Insufficient balance.");
             }
         }
@@ -47,8 +54,15 @@ namespace BankSystem
         }
     }
 
-   
-    public class SavingsAccount : Account
+    //getbal
+    //    dep
+    //        withdraw
+    //    checkbal
+
+
+    public class SavingsAccount : Account  
+        //save
+       //                                  current
     {
         public SavingsAccount(string accNo, double balance)
             : base(accNo, balance) { }
@@ -61,6 +75,7 @@ namespace BankSystem
 
         public CurrentAccount(string accNo, double balance)
             : base(accNo, balance) { }
+      
 
         public override void Withdraw(double amount)
         {

@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\",
+  "WorkspaceRootPath": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day4\\employeemanagementapi\\file.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:file.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day4\\employeemanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day4\\employeemanagementapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day4\\employeemanagementapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day4\\employeemanagementapi\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day4\\employeemanagementapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\week1\\day4\\employeemanagementapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day4\\employeemanagementapi\\controllers\\employeecontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\week1\\day4\\employeemanagementapi\\controllers\\employeecontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:controllers\\employeecontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day4\\employeemanagementapi\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\week1\\day4\\employeemanagementapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\week1\\day4\\employeemanagementapi\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\week1\\day4\\employeemanagementapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\week1\\day4\\employeemanagementapi\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day4\\employeemanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day4\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\week1\\day4\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\day4\\employeemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\week1\\day4\\employeemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\week1\\day4\\employeemanagementapi\\file.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:file.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\week1\\day4\\employeemanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|c:\\dotnet tasks\\infinitetasks\\tasks\\week1\\day4\\employeemanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41762E8D-9579-4600-9807-18EE52E212ED}|EmployeeManagementAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,137 +74,143 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "file.md",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\file.md",
-              "RelativeDocumentMoniker": "file.md",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\file.md",
-              "RelativeToolTip": "file.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-07-02T17:17:15.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-02T16:45:34.072Z",
+              "Title": "EmployeeContoller.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Controllers\\EmployeeContoller.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeContoller.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Controllers\\EmployeeContoller.cs",
+              "RelativeToolTip": "Controllers\\EmployeeContoller.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwCYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:42:39.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAABYAAAAAAAAAA==",
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T07:33:00.371Z"
+              "WhenOpened": "2026-06-23T07:39:18.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Repositories\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Repositories\\EmployeeRepository.cs",
-              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T07:38:02.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Repositories\\IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Repositories\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Repositories\\IEmployeeRepository.cs",
               "RelativeToolTip": "Repositories\\IEmployeeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T07:37:17.095Z"
+              "WhenOpened": "2026-06-23T07:37:17.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:38:02.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:33:00.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Services\\EmployeeService.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Services\\EmployeeService.cs",
               "RelativeToolTip": "Services\\EmployeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T07:39:50.672Z"
+              "WhenOpened": "2026-06-23T07:39:50.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EmployeeContoller.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Controllers\\EmployeeContoller.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeContoller.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Controllers\\EmployeeContoller.cs",
-              "RelativeToolTip": "Controllers\\EmployeeContoller.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAowEEAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T07:42:39.997Z"
+              "WhenOpened": "2026-06-23T07:23:11.572Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Services\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Services\\IEmployeeService.cs",
-              "RelativeToolTip": "Services\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T07:39:18.902Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-23T07:35:00.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T07:34:46.134Z"
+              "Title": "file.md",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\file.md",
+              "RelativeDocumentMoniker": "file.md",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\file.md",
+              "RelativeToolTip": "file.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-02T17:17:15.176Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T07:23:11.572Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-02T16:45:34.072Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Day4\\EmployeeManagementAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-23T07:35:00.559Z"
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\DotNet Tasks\\InfiniteTasks\\Tasks\\Week1\\Day4\\EmployeeManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:34:46.134Z"
             }
           ]
         }
