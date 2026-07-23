@@ -1,0 +1,325 @@
+﻿# SQL-to-LINQ Mapping Document
+
+## Overview
+
+This document demonstrates how common SQL queries can be converted into LINQ queries in C#.
+
+---
+
+# 1. WHERE Clause
+
+## SQL
+
+```sql
+SELECT *
+FROM Employees
+WHERE Department = 'IT';
+```
+
+## LINQ
+
+```csharp
+employees.Where(e => e.Department == "IT");
+```
+
+---
+
+# 2. SELECT (Projection)
+
+## SQL
+
+```sql
+SELECT Name
+FROM Employees;
+```
+
+## LINQ
+
+```csharp
+employees.Select(e => e.Name);
+```
+
+---
+
+# 3. ORDER BY Ascending
+
+## SQL
+
+```sql
+SELECT *
+FROM Employees
+ORDER BY Salary ASC;
+```
+
+## LINQ
+
+```csharp
+employees.OrderBy(e => e.Salary);
+```
+
+---
+
+# 4. ORDER BY Descending
+
+## SQL
+
+```sql
+SELECT *
+FROM Employees
+ORDER BY Salary DESC;
+```
+
+## LINQ
+
+```csharp
+employees.OrderByDescending(e => e.Salary);
+```
+
+---
+
+# 5. GROUP BY
+
+## SQL
+
+```sql
+SELECT Department,
+       COUNT(*)
+FROM Employees
+GROUP BY Departme*t;
+```
+
+## LINQ
+
+```*sharp
+employees
+    .GroupBy(e => *.Department)
+    .Select(g => new
+*   {
+        Department = g.Key,
+ *      Count = g.Count()
+    });
+``*
+
+---
+
+# 6. INNER JOIN
+
+## SQL
+
+``*sql
+SELECT e.Name,
+       d.Depart*entName
+FROM Employees e
+INNER JOI* Departments d
+ON e.DepartmentId =*d.DepartmentId;
+```
+
+## LINQ
+
+```c*harp
+from e in employees
+join d in*departments
+on e.DepartmentId equa*s d.DepartmentId
+select new
+{
+    *.Name,
+    d.DepartmentName
+};
+```*
+---
+
+# 7. COUNT
+
+*# SQL
+
+```sql
+SELECT COUNT(*)
+FROM Employees;
+```
+
+## LINQ
+
+```csharp
+employees.Count();
+```
+
+---
+
+# 8. SUM
+
+## SQL
+
+```sql
+SELECT SUM(Salary)
+FROM Employees;
+```
+
+## LINQ
+
+```csharp
+employees.Sum(e => e.Salary);
+```
+
+---
+
+# 9. AVG
+
+## SQL
+
+```sql
+SELECT AVG(Salary)
+FROM Employees;
+```
+
+## LINQ
+
+```csharp
+employees.Average(e => e.Salary);
+```
+
+---
+
+# 10. MAX
+
+## SQL
+
+```sql
+SELECT MAX(Salary)
+FROM Employees;
+```
+
+## LINQ
+
+```csharp
+employees.Max(e => e.Salary);
+```
+
+---
+
+# 11. MIN
+
+## SQL
+
+```sql
+SELECT MIN(Salary)
+FROM Employees;
+```
+
+## LINQ
+
+```csharp
+employees.Min(e => e.Salary);
+```
+
+---
+
+# 12. TOP
+
+## SQL
+
+```sql
+SELECT TOP 3 *
+FROM Employees;
+```
+
+## LINQ
+
+```csharp
+employees.Take(3);
+```
+
+---
+
+# 13. DISTINCT
+
+## SQL
+
+```sql
+SELECT DISTINCT Department
+FROM Employees;
+```
+
+## LINQ
+
+```csharp
+employees
+    .Select(e => e.Department)
+    .Distinct();
+```
+
+---
+
+# 14. FIRST RECORD
+
+## SQL
+
+```sql
+SELECT TOP 1 *
+FROM Employees;
+```
+
+## LINQ
+
+```csharp
+employees.FirstOrDefault();
+```
+
+---
+
+# 15. ANY
+
+## SQL Equivalent
+
+Check if any employee belongs to the IT department.
+
+## LINQ
+
+```csharp
+employees.Any(e => e.Department == "IT");
+```
+
+---
+
+# SQL vs LINQ Quick Reference
+
+## SQL
+
+```sql
+WHERE
+SELECT
+ORDER BY
+ORDER BY DESC
+GROUP BY
+INNER JOIN
+COUNT
+SUM
+AVG
+MAX
+MIN
+TOP
+DISTINCT
+```
+
+## LINQ
+
+```csharp
+Where()
+Select()
+OrderBy()
+OrderByDescending()
+GroupBy()
+Join()
+Count()
+Sum()
+Average()
+Max()
+Min()
+Take()
+Distinct()
+```
+
+---
+
+# Conclusion
+
+This document shows the equivalent LINQ expressions for commonly used SQL operations. LINQ helps developers write database-like queries directly in C# using strongly typed collections and objects.

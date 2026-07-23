@@ -1,0 +1,8 @@
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week3\LINQ\Day5_LINQ\bin\Debug\Day5_LINQ.exe.config
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week3\LINQ\Day5_LINQ\bin\Debug\Day5_LINQ.exe
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week3\LINQ\Day5_LINQ\bin\Debug\Day5_LINQ.pdb
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week3\LINQ\Day5_LINQ\obj\Debug\Day5_LINQ.csproj.AssemblyReference.cache
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week3\LINQ\Day5_LINQ\obj\Debug\Day5_LINQ.csproj.CoreCompileInputs.cache
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week3\LINQ\Day5_LINQ\obj\Debug\Day5_LINQ.exe
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week3\LINQ\Day5_LINQ\obj\Debug\Day5_LINQ.pdb
+C:\DotNet Tasks\InfiniteTasks\Tasks\Week3\LINQ\Day5_LINQ\obj\Debug\Day5_LINQ.exe.config
